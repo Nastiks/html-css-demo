@@ -1,0 +1,173 @@
+body {
+    color: #000;
+    font-family: 'Lato';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;    
+}
+
+.header-title {
+    color: #005FA3;
+    font-family: 'Merriweather';
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 50px;
+}
+
+.header-contact-link {
+    text-decoration: none;
+}
+
+.header-contact-text {
+    color: #000;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    
+}
+
+.header-nav-link {
+    color: #222;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0.1em;
+}
+
+.desc {
+    background-color: #191E22;
+    background-image: url(../img/first-screen-bkg.jpg);
+}
+
+.desc-title {
+    color: #FFF;
+    font-family: 'Merriweather';
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 66px;
+}
+
+.service-item-title {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 30px;
+}
+
+.desc-link {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: center;
+}
+
+.service {
+    background: #EBEBEB;
+}
+
+.about-us {
+    background: #FFF;
+}
+
+.section-title {
+    color: #BDBDBD;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 33px;
+}
+
+.section-sub-title {
+    color: #333;
+    font-family: 'Merriweather';
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 69px;
+}
+
+.service-item-link {
+    background-image: url(../img/services-bkg.jpg);
+    text-decoration: none;
+}
+
+.review-button {
+    color: #FFF;
+    font-weight: 400;
+}
+
+.review-item-text {
+    color: #000;
+}
+
+.review-item-author {
+    color: #000;
+    font-weight: 900;
+}
+
+.review-item-position {
+    color: #4F4F4F;
+    font-weight: 400;
+}
+
+.name-company {
+    color: #005FA3;
+}
+
+.case {
+    background: #EBEBEB;
+}
+
+.count-deal {
+    font-size: 55px;
+    font-weight: 900;
+    line-height: 66px;
+    letter-spacing: 0.1em;
+}
+
+.title-deal {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+.cases {
+    color: #005FA3;
+    font-size: 14px;
+    font-weight: 700;   
+    line-height: 17px;
+}
+
+.clients, .advantages {
+    background: #EBEBEB;
+}
+
+.advantages-item {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.footer-screen {
+    background-color: #191E22;
+    background-image: url(../img/footer-screen-bkg.jpg);
+}
+
+.footer-contact {
+    color: #FFF;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 29px;
+}
+
+.footer-desc {
+    color: #FFF;
+}
+
+.pop-up {
+    font-size: 14px;
+    line-height: 19px;
+}
