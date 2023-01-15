@@ -59,6 +59,7 @@ body {
 
 .desc-link {
     color: #FFF;
+    background: #005FA3;
     text-decoration: none;
     font-size: 25px;
     font-weight: 400;
@@ -94,9 +95,18 @@ body {
     text-decoration: none;
 }
 
-.review-button {
+.button {
     color: #FFF;
     font-weight: 400;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    background: #005FA3;
+    border: none;
+}
+
+.review-item {
+    background: #EBEBEB;
 }
 
 .review-item-text {
@@ -110,7 +120,9 @@ body {
 
 .review-item-position {
     color: #4F4F4F;
+    font-size: 14px;
     font-weight: 400;
+    line-height: 19px;
 }
 
 .name-company {
@@ -141,7 +153,11 @@ body {
     line-height: 17px;
 }
 
-.clients, .advantages {
+.clients {
+    background: #EBEBEB;
+}
+
+.advantages {
     background: #EBEBEB;
 }
 
@@ -151,15 +167,9 @@ body {
     line-height: 48px;
 }
 
-.footer-screen {
-    background-color: #191E22;
-    background-image: url(../img/footer-screen-bkg.jpg);
-}
-
 .footer-contact {
     color: #FFF;
     font-size: 21px;
-    font-weight: 300;
     line-height: 29px;
 }
 
@@ -167,7 +177,20 @@ body {
     color: #FFF;
 }
 
-.pop-up {
+.footer-bkg {
+    background-color: #191E22;
+    background-image: url(../img/footer-screen-bkg.jpg);
+}
+
+.footer-text {
     font-size: 14px;
     line-height: 19px;
+}
+
+.connection {
+    color: #FFF;
+    font-family: 'Merriweather';
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 69px;
 }
